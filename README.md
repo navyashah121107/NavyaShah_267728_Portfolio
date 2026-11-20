@@ -19,7 +19,7 @@ experience and contact information.
 ![Portfolio Screenshot](assets/screenshot.png)
 
 ## Live Demo
-[View Live Portfolio](https://YOUR-USERNAME.github.io/NavyaShah_RollNo_Portfolio/)
+[View Live Portfolio](https://navyashah121107.github.io/NavyaShah_267728_Portfolio/)
 
 ## How to Run Locally
 1. Clone the repository:
